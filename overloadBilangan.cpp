@@ -155,8 +155,6 @@ int main(){
         } else if (pilihan==2){
             Encode Bil2;
             string atr[3];
-            char temp[128];
-            int len, hasilnya;
             cout << "\nTips : " << endl;
             cout << "1. Gunakan lowercase (huruf kecil)" << endl;
             cout << "2. Gunakan \"-\" jika ingin mengosongi atribut" << endl;
