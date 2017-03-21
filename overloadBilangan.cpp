@@ -1,8 +1,8 @@
 //FRONT13R http://bit.ly/2mRGar1
 #include <iostream>
 #include <conio.h>
-#include <windows.h>
 #include <string.h>
+#include <windows.h>
 using namespace std;
 
 class Decode{
