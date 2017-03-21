@@ -1,4 +1,4 @@
-//FRONT13R http://bit.ly/2mRGar1
+//FRONT13R src: http://bit.ly/2mRGar1         // submit : https://dropitto.me/latihan-pl-tekom-a
 #include <iostream>
 #include <conio.h>
 #include <string.h>
