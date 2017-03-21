@@ -1,4 +1,7 @@
-//FRONT13R src: http://bit.ly/2mRGar1         // submit : https://dropitto.me/latihan-pl-tekom-a
+//FRONT13R src: http://bit.ly/2mRGar1         
+// submit : https://dropitto.me/latihan-pl-tekom-a
+//   pass : 123321
+// format : NIM_NAMA_KELAS.cpp
 #include <iostream>
 #include <conio.h>
 #include <string.h>
