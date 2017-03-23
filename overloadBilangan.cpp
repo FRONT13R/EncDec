@@ -185,6 +185,6 @@ int main(){
             getch();
             system("cls");
         }
-    } while (pilihan!=0);
+    } while (pilihan!=3);
     return 0;
 }
