@@ -1,7 +1,6 @@
 //FRONT13R src: http://bit.ly/2mRGar1
 #include <iostream>
 #include <conio.h>
-#include <string.h>
 #include <windows.h>
 using namespace std;
 
